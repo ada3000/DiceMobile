@@ -1,0 +1,2 @@
+# DiceMobile
+Cordova Html
